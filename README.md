@@ -1,3 +1,6 @@
+NOTE : This project is for personal uses and Kittynder code.
+Link of the source code here : https://github.com/josephharveyangeles/kittynder
+
 # kittynder
 > Tinder for cats.
 
