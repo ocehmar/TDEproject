@@ -1,4 +1,4 @@
-NOTE : This project is for personal uses and Kittynder code.
+NOTE : This project is for personal use and Kittynder code.
 Link of the source code here : https://github.com/josephharveyangeles/kittynder
 
 # kittynder
